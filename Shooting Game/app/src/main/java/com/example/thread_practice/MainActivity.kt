@@ -1,9 +1,11 @@
 package com.example.thread_practice
 
+import android.content.Intent
 import android.media.MediaPlayer
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
+import androidx.core.view.isVisible
 import com.example.thread_practice.databinding.ActivityMainBinding
 
 
@@ -25,6 +27,7 @@ class MainActivity : AppCompatActivity() {
 
         bgm = MediaPlayer.create(this, R.raw.bgm_klee_ost_extended_to_make_you_happy_tnbee_mix)
         bgm!!.start()
+        bgm!!.setVolume(1F,1F)
         JoyStick(this).joyStickCall(joystick, player, topMargin, playGround)
 
         val minute = binding.minute
@@ -54,6 +57,15 @@ class MainActivity : AppCompatActivity() {
             shooting(14, missile4, player, 2000, oops, heart1, heart2, heart3)
             shooting(15, missile2, player, 2000, oops, heart1, heart2, heart3)
             shooting(15, missile3, player, 2000, oops, heart1, heart2, heart3)
+        }
+
+
+        val previousActivity = Intent(this, startActivity::class.java)
+
+        oops.setOnClickListener {
+            if (oops.isVisible){
+                startActivity(previousActivity)
+            }
         }
     }
 
