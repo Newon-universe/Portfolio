@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.accompanist:accompanist-pager-indicators:0.24.6-alpha@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/f3c23acfae2a360c8b9eeed942ba82b7/transformed/accompanist-pager-indicators-0.24.6-alpha/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f3c23acfae2a360c8b9eeed942ba82b7/transformed/accompanist-pager-indicators-0.24.6-alpha/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f3c23acfae2a360c8b9eeed942ba82b7/transformed/accompanist-pager-indicators-0.24.6-alpha/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.accompanist/accompanist-pager-indicators/0.24.6-alpha/38067fd4bb16d97e32b68d737f0e3a9410e58ef3/accompanist-pager-indicators-0.24.6-alpha-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.accompanist/accompanist-pager-indicators/0.24.6-alpha/ece776e0dd7a4e57fb136478ede0264055d0787c/accompanist-pager-indicators-0.24.6-alpha-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
