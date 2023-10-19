@@ -1,6 +1,6 @@
 # iOS Portfolio
 링크는 PDF 포트폴리오 다운로드 링크(구글 드라이브) 로 이동합니다. 
-1. Portfolio [Link](https://drive.google.com/file/d/1I9qEKammIhtZmzX_zVDBxmQt1vXu7e8s/view?usp=sharing)
+1. Portfolio [Link](https://drive.google.com/file/d/19cUkF1aNvtCR3y_Tsczuh3z5bI7R0MeG/view?usp=sharing)
 2. Resume [Link](https://drive.google.com/file/d/1Yc6dMpIx2xAfWymbT6vK83lCW1D4RlYL/view?usp=sharing)
 
 <br/>
